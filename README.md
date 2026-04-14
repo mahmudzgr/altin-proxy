@@ -6,5 +6,5 @@ Her 5 dakikada bir Topaloğlu Altın API'sinden fiyatları çeker ve `data.json`
 
 Ham JSON verisi:
 ```
-https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/data.json
+https://raw.githubusercontent.com/mahmudzgr/altin-proxy/refs/heads/main/data.json
 ```
