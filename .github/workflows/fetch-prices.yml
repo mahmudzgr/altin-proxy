@@ -2,7 +2,7 @@ name: Fiyat Güncelle
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,10 @@ jobs:
       - name: Python kur
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
+
+      - name: requests kur
+        run: pip install requests
 
       - name: Fiyatları çek
         run: |
