@@ -5,8 +5,8 @@
       "alis": "6.939,71",
       "satis": "6.964,36",
       "fark": "-0,68",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -25,8 +25,8 @@
       "alis": "154.320,00",
       "satis": "154.640,00",
       "fark": "-0,45",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -35,8 +35,8 @@
       "alis": "131.370,00",
       "satis": "131.940,00",
       "fark": "-0,67",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -45,8 +45,8 @@
       "alis": "6.330,32",
       "satis": "6.468,04",
       "fark": "-4,60",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -55,15 +55,15 @@
       "alis": "6.938,72",
       "satis": "6.969,26",
       "fark": "-1,47",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
     {
       "urun": "ALTIN GÜMÜŞ",
       "alis": "58,13",
-      "satis": "61,29",
+      "satis": "61,69",
       "fark": "-5,37",
       "alis_trend": "neutral",
       "satis_trend": "up",
@@ -75,18 +75,18 @@
       "alis": "3.995,12",
       "satis": "4.198,13",
       "fark": "-24,71",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
     {
       "urun": "GÜMÜŞ TL",
-      "alis": "113,11",
+      "alis": "112,39",
       "satis": "118,87",
-      "fark": "-5,17",
-      "alis_trend": "neutral",
-      "satis_trend": "neutral",
+      "fark": "-5,77",
+      "alis_trend": "down",
+      "satis_trend": "down",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -102,12 +102,12 @@
     },
     {
       "urun": "GÜMÜŞ USD",
-      "alis": "2.523,00",
+      "alis": "2.507,00",
       "satis": "2.654,00",
-      "fark": "0,00",
-      "alis_trend": "neutral",
+      "fark": "-0,63",
+      "alis_trend": "down",
       "satis_trend": "neutral",
-      "genel_trend": "neutral",
+      "genel_trend": "down",
       "type": "altin"
     },
     {
@@ -157,8 +157,8 @@
       "alis": "11.313,00",
       "satis": "11.460,00",
       "fark": "-1,64",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -167,8 +167,8 @@
       "alis": "11.209,00",
       "satis": "11.355,00",
       "fark": "-1,64",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -177,8 +177,8 @@
       "alis": "22.622,00",
       "satis": "22.994,00",
       "fark": "-1,93",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -187,8 +187,8 @@
       "alis": "22.310,00",
       "satis": "22.715,00",
       "fark": "-2,09",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -197,8 +197,8 @@
       "alis": "45.135,00",
       "satis": "45.714,00",
       "fark": "-1,56",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -207,8 +207,8 @@
       "alis": "44.580,00",
       "satis": "45.296,00",
       "fark": "-1,87",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -217,8 +217,8 @@
       "alis": "46.314,00",
       "satis": "46.759,00",
       "fark": "-1,24",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -227,8 +227,8 @@
       "alis": "46.002,00",
       "satis": "46.550,00",
       "fark": "-1,47",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -237,8 +237,8 @@
       "alis": "231.031,00",
       "satis": "236.901,00",
       "fark": "-2,75",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -247,8 +247,8 @@
       "alis": "230.337,00",
       "satis": "236.901,00",
       "fark": "-3,04",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -257,8 +257,8 @@
       "alis": "112.396,00",
       "satis": "114.990,00",
       "fark": "-2,53",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -267,8 +267,8 @@
       "alis": "112.049,00",
       "satis": "113.248,00",
       "fark": "-1,33",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     }
@@ -525,6 +525,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "12:58:25",
-  "cekme_zamani": "2026-04-18T10:59:27Z"
+  "guncelleme": "14:23:38",
+  "cekme_zamani": "2026-04-18T11:41:43Z"
 }
