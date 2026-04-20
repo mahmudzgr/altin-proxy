@@ -5,8 +5,8 @@
       "alis": "6.938,71",
       "satis": "6.969,80",
       "fark": "-0,32",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -45,8 +45,8 @@
       "alis": "6.329,41",
       "satis": "6.473,21",
       "fark": "-4,26",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -55,8 +55,8 @@
       "alis": "6.937,73",
       "satis": "6.974,72",
       "fark": "-1,12",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -76,7 +76,7 @@
       "satis": "4.201,67",
       "fark": "-24,46",
       "alis_trend": "neutral",
-      "satis_trend": "down",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -237,8 +237,8 @@
       "alis": "230.997,00",
       "satis": "237.086,00",
       "fark": "-2,40",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -248,7 +248,7 @@
       "satis": "237.086,00",
       "fark": "-2,69",
       "alis_trend": "neutral",
-      "satis_trend": "down",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -279,8 +279,8 @@
       "alis": "44,803",
       "satis": "44,896",
       "fark": "-0,19",
-      "alis_trend": "down",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
     },
@@ -290,7 +290,7 @@
       "satis": "52,860",
       "fark": "-0,40",
       "alis_trend": "neutral",
-      "satis_trend": "down",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
     },
@@ -330,7 +330,7 @@
       "satis": "33,078",
       "fark": "-2,06",
       "alis_trend": "neutral",
-      "satis_trend": "up",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
     },
@@ -349,39 +349,39 @@
       "alis": "0,278",
       "satis": "0,302",
       "fark": "-7,91",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
     },
     {
       "urun": "SEK/TL",
-      "alis": "3,721",
-      "satis": "4,641",
-      "fark": "-19,88",
+      "alis": "3,725",
+      "satis": "4,645",
+      "fark": "0,03",
       "alis_trend": "neutral",
       "satis_trend": "neutral",
-      "genel_trend": "down",
+      "genel_trend": "up",
       "type": "doviz"
     },
     {
       "urun": "DKK/TL",
-      "alis": "1,390",
-      "satis": "6,893",
-      "fark": "-79,84",
+      "alis": "1,391",
+      "satis": "6,896",
+      "fark": "0,14",
       "alis_trend": "neutral",
       "satis_trend": "neutral",
-      "genel_trend": "down",
+      "genel_trend": "up",
       "type": "doviz"
     },
     {
       "urun": "NOK/TL",
-      "alis": "4,058",
-      "satis": "4,068",
-      "fark": "0,00",
+      "alis": "4,061",
+      "satis": "4,071",
+      "fark": "0,32",
       "alis_trend": "neutral",
       "satis_trend": "neutral",
-      "genel_trend": "neutral",
+      "genel_trend": "up",
       "type": "doviz"
     }
   ],
@@ -391,8 +391,8 @@
       "alis": "1,1748",
       "satis": "1,1774",
       "fark": "-0,20",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "capraz"
     },
@@ -409,10 +409,10 @@
     {
       "urun": "USD/CHF",
       "alis": "0,7810",
-      "satis": "0,7910",
+      "satis": "0,7920",
       "fark": "0,00",
       "alis_trend": "neutral",
-      "satis_trend": "down",
+      "satis_trend": "neutral",
       "genel_trend": "neutral",
       "type": "capraz"
     },
@@ -420,8 +420,8 @@
       "urun": "AUD/USD",
       "alis": "0,6950",
       "satis": "0,7130",
-      "fark": "-2,80",
-      "alis_trend": "up",
+      "fark": "-0,29",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "capraz"
@@ -441,8 +441,8 @@
       "alis": "159,0795",
       "satis": "160,9990",
       "fark": "-1,22",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "capraz"
     },
@@ -525,6 +525,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "01:55:20",
-  "cekme_zamani": "2026-04-20T22:55:45Z"
+  "guncelleme": "01:59:26",
+  "cekme_zamani": "2026-04-20T23:40:54Z"
 }
