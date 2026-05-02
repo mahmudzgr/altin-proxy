@@ -238,7 +238,7 @@
       "urun": "USD/TL",
       "alis": "44,792",
       "satis": "45,047",
-      "fark": "-0,57",
+      "fark": "-0,52",
       "alis_trend": "up",
       "satis_trend": "up",
       "genel_trend": "down",
@@ -485,6 +485,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "03:11:41",
-  "cekme_zamani": "2026-05-02T01:11:22Z"
+  "guncelleme": "05:16:49",
+  "cekme_zamani": "2026-05-02T04:27:24Z"
 }
