@@ -259,7 +259,7 @@
       "alis": "61,006",
       "satis": "61,503",
       "fark": "-1,12",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
@@ -415,6 +415,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "22:30:59",
-  "cekme_zamani": "2026-06-27T21:01:35Z"
+  "guncelleme": "00:23:58",
+  "cekme_zamani": "2026-06-27T22:12:04Z"
 }
