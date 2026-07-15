@@ -2,99 +2,99 @@
   "altin": [
     {
       "urun": "HAS ALTIN",
-      "alis": "6.075,98",
-      "satis": "6.104,07",
-      "fark": "-1,22",
-      "alis_trend": "down",
-      "satis_trend": "down",
-      "genel_trend": "down",
-      "type": "altin"
-    },
-    {
-      "urun": "USD/KG",
-      "alis": "128.770,00",
-      "satis": "129.150,00",
-      "fark": "-2,73",
-      "alis_trend": "down",
-      "satis_trend": "down",
-      "genel_trend": "down",
-      "type": "altin"
-    },
-    {
-      "urun": "EUR/KG",
-      "alis": "112.690,00",
-      "satis": "113.280,00",
-      "fark": "-13,32",
-      "alis_trend": "down",
-      "satis_trend": "neutral",
-      "genel_trend": "down",
-      "type": "altin"
-    },
-    {
-      "urun": "22 AYAR",
-      "alis": "5.543,32",
-      "satis": "5.601,70",
-      "fark": "-5,09",
-      "alis_trend": "down",
-      "satis_trend": "down",
-      "genel_trend": "down",
-      "type": "altin"
-    },
-    {
-      "urun": "GRAM ALTIN",
-      "alis": "6.076,01",
-      "satis": "6.106,28",
-      "fark": "-10,15",
-      "alis_trend": "down",
-      "satis_trend": "down",
-      "genel_trend": "down",
-      "type": "altin"
-    },
-    {
-      "urun": "ALTIN GÜMÜŞ",
-      "alis": "65,20",
-      "satis": "69,40",
-      "fark": "-4,13",
-      "alis_trend": "neutral",
-      "satis_trend": "down",
-      "genel_trend": "down",
-      "type": "altin"
-    },
-    {
-      "urun": "14 AYAR",
-      "alis": "3.474,43",
-      "satis": "3.778,94",
-      "fark": "-31,73",
-      "alis_trend": "down",
-      "satis_trend": "down",
-      "genel_trend": "down",
-      "type": "altin"
-    },
-    {
-      "urun": "GÜMÜŞ TL",
-      "alis": "87,49",
-      "satis": "92,74",
-      "fark": "-17,59",
+      "alis": "6.075,92",
+      "satis": "6.100,77",
+      "fark": "-1,23",
       "alis_trend": "up",
       "satis_trend": "up",
       "genel_trend": "down",
       "type": "altin"
     },
     {
-      "urun": "GÜMÜŞ USD",
-      "alis": "1.863,00",
-      "satis": "1.972,80",
-      "fark": "-21,54",
+      "urun": "USD/KG",
+      "alis": "128.740,00",
+      "satis": "129.120,00",
+      "fark": "-2,75",
+      "alis_trend": "up",
+      "satis_trend": "up",
+      "genel_trend": "down",
+      "type": "altin"
+    },
+    {
+      "urun": "EUR/KG",
+      "alis": "112.620,00",
+      "satis": "113.210,00",
+      "fark": "-13,38",
       "alis_trend": "neutral",
       "satis_trend": "up",
       "genel_trend": "down",
       "type": "altin"
     },
     {
+      "urun": "22 AYAR",
+      "alis": "5.543,26",
+      "satis": "5.598,60",
+      "fark": "-5,09",
+      "alis_trend": "up",
+      "satis_trend": "up",
+      "genel_trend": "down",
+      "type": "altin"
+    },
+    {
+      "urun": "GRAM ALTIN",
+      "alis": "6.075,95",
+      "satis": "6.102,98",
+      "fark": "-10,15",
+      "alis_trend": "up",
+      "satis_trend": "down",
+      "genel_trend": "down",
+      "type": "altin"
+    },
+    {
+      "urun": "ALTIN GÜMÜŞ",
+      "alis": "65,27",
+      "satis": "69,47",
+      "fark": "-4,03",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
+      "genel_trend": "down",
+      "type": "altin"
+    },
+    {
+      "urun": "14 AYAR",
+      "alis": "3.474,39",
+      "satis": "3.776,80",
+      "fark": "-31,73",
+      "alis_trend": "up",
+      "satis_trend": "up",
+      "genel_trend": "down",
+      "type": "altin"
+    },
+    {
+      "urun": "GÜMÜŞ TL",
+      "alis": "87,40",
+      "satis": "92,60",
+      "fark": "-17,67",
+      "alis_trend": "up",
+      "satis_trend": "down",
+      "genel_trend": "down",
+      "type": "altin"
+    },
+    {
+      "urun": "GÜMÜŞ USD",
+      "alis": "1.860,80",
+      "satis": "1.970,30",
+      "fark": "-21,64",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
+      "genel_trend": "down",
+      "type": "altin"
+    },
+    {
       "urun": "PALADYUM USD",
-      "alis": "1.303,30",
-      "satis": "1.306,60",
-      "fark": "-5,97",
+      "alis": "1.307,70",
+      "satis": "1.310,60",
+      "fark": "-5,65",
       "alis_trend": "neutral",
       "satis_trend": "down",
       "genel_trend": "down",
@@ -103,10 +103,10 @@
     {
       "urun": "PLATİN USD",
       "alis": "47.500,00",
-      "satis": "52.600,00",
+      "satis": "52.620,00",
       "fark": "-11,41",
-      "alis_trend": "up",
-      "satis_trend": "neutral",
+      "alis_trend": "down",
+      "satis_trend": "down",
       "genel_trend": "down",
       "type": "altin"
     }
@@ -115,9 +115,9 @@
     {
       "urun": "YENİ ÇEYREK",
       "alis": "9.912,00",
-      "satis": "10.002,00",
+      "satis": "9.978,00",
       "fark": "-17,80",
-      "alis_trend": "neutral",
+      "alis_trend": "up",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
@@ -125,29 +125,29 @@
     {
       "urun": "ESKİ ÇEYREK",
       "alis": "9.875,00",
-      "satis": "9.953,00",
+      "satis": "9.948,00",
       "fark": "-15,77",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "up",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
     {
       "urun": "YENİ YARIM",
       "alis": "19.818,00",
-      "satis": "19.990,00",
+      "satis": "19.973,00",
       "fark": "-1,61",
-      "alis_trend": "down",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
     {
       "urun": "ESKİ YARIM",
-      "alis": "19.745,00",
-      "satis": "19.880,00",
-      "fark": "-0,57",
-      "alis_trend": "down",
+      "alis": "19.733,00",
+      "satis": "19.851,00",
+      "fark": "-0,63",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "sarrafiye"
@@ -155,9 +155,9 @@
     {
       "urun": "YENİ TAM",
       "alis": "39.504,00",
-      "satis": "39.796,00",
+      "satis": "39.762,00",
       "fark": "-11,96",
-      "alis_trend": "down",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "sarrafiye"
@@ -165,19 +165,19 @@
     {
       "urun": "ESKİ TAM",
       "alis": "39.194,00",
-      "satis": "39.521,00",
+      "satis": "39.500,00",
       "fark": "-1,40",
-      "alis_trend": "down",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
     {
       "urun": "YENİ ATA",
-      "alis": "40.488,00",
-      "satis": "40.804,00",
-      "fark": "-1,79",
-      "alis_trend": "down",
+      "alis": "40.457,00",
+      "satis": "40.782,00",
+      "fark": "-1,86",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "sarrafiye"
@@ -185,29 +185,29 @@
     {
       "urun": "ESKİ ATA",
       "alis": "40.263,00",
-      "satis": "40.651,00",
+      "satis": "40.629,00",
       "fark": "-2,04",
-      "alis_trend": "down",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
     {
       "urun": "YENİ ATA5",
-      "alis": "201.965,00",
-      "satis": "203.988,00",
+      "alis": "201.963,00",
+      "satis": "203.878,00",
       "fark": "-11,79",
-      "alis_trend": "down",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
     {
       "urun": "ESKİ ATA5",
-      "alis": "201.054,00",
-      "satis": "202.767,00",
+      "alis": "201.052,00",
+      "satis": "202.657,00",
       "fark": "-12,19",
-      "alis_trend": "down",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "sarrafiye"
@@ -215,19 +215,19 @@
     {
       "urun": "YENİ GREMSE",
       "alis": "98.403,00",
-      "satis": "99.574,00",
+      "satis": "99.520,00",
       "fark": "-1,88",
-      "alis_trend": "down",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
     {
       "urun": "ESKİ GREMSE",
-      "alis": "97.978,00",
-      "satis": "98.841,00",
+      "alis": "97.977,00",
+      "satis": "98.788,00",
       "fark": "-1,70",
-      "alis_trend": "down",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "sarrafiye"
@@ -236,71 +236,71 @@
   "doviz": [
     {
       "urun": "USD/TL",
-      "alis": "46,933",
-      "satis": "47,033",
-      "fark": "5,04",
-      "alis_trend": "neutral",
-      "satis_trend": "up",
+      "alis": "46,945",
+      "satis": "47,020",
+      "fark": "5,07",
+      "alis_trend": "up",
+      "satis_trend": "down",
       "genel_trend": "up",
       "type": "doviz"
     },
     {
       "urun": "EUR/TL",
-      "alis": "53,510",
-      "satis": "53,746",
-      "fark": "0,39",
-      "alis_trend": "neutral",
-      "satis_trend": "neutral",
+      "alis": "53,543",
+      "satis": "53,750",
+      "fark": "0,45",
+      "alis_trend": "up",
+      "satis_trend": "down",
       "genel_trend": "up",
       "type": "doviz"
     },
     {
       "urun": "GBP/TL",
-      "alis": "62,524",
-      "satis": "62,947",
-      "fark": "1,35",
-      "alis_trend": "down",
-      "satis_trend": "up",
+      "alis": "62,598",
+      "satis": "62,987",
+      "fark": "1,47",
+      "alis_trend": "up",
+      "satis_trend": "down",
       "genel_trend": "up",
       "type": "doviz"
     },
     {
       "urun": "CHF/TL",
-      "alis": "57,321",
-      "satis": "58,128",
-      "fark": "-0,79",
-      "alis_trend": "down",
+      "alis": "57,365",
+      "satis": "58,144",
+      "fark": "-0,71",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "doviz"
     },
     {
       "urun": "AUD/TL",
-      "alis": "32,082",
-      "satis": "32,681",
-      "fark": "-0,21",
-      "alis_trend": "down",
+      "alis": "32,092",
+      "satis": "32,673",
+      "fark": "-0,18",
+      "alis_trend": "up",
       "satis_trend": "down",
       "genel_trend": "down",
       "type": "doviz"
     },
     {
       "urun": "CAD/TL",
-      "alis": "33,128",
-      "satis": "33,411",
-      "fark": "2,44",
-      "alis_trend": "neutral",
-      "satis_trend": "neutral",
+      "alis": "33,117",
+      "satis": "33,383",
+      "fark": "2,41",
+      "alis_trend": "up",
+      "satis_trend": "down",
       "genel_trend": "up",
       "type": "doviz"
     },
     {
       "urun": "SAR/TL",
-      "alis": "12,301",
-      "satis": "12,640",
-      "fark": "-1,05",
-      "alis_trend": "neutral",
-      "satis_trend": "neutral",
+      "alis": "12,304",
+      "satis": "12,637",
+      "fark": "-1,02",
+      "alis_trend": "up",
+      "satis_trend": "down",
       "genel_trend": "down",
       "type": "doviz"
     },
@@ -310,7 +310,7 @@
       "satis": "0,285",
       "fark": "-0,83",
       "alis_trend": "neutral",
-      "satis_trend": "neutral",
+      "satis_trend": "up",
       "genel_trend": "down",
       "type": "doviz"
     }
@@ -318,19 +318,19 @@
   "capraz": [
     {
       "urun": "EUR/USD",
-      "alis": "1,1407",
-      "satis": "1,1422",
-      "fark": "-0,83",
-      "alis_trend": "neutral",
+      "alis": "1,1410",
+      "satis": "1,1426",
+      "fark": "-0,81",
+      "alis_trend": "down",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "capraz"
     },
     {
       "urun": "GBP/USD",
-      "alis": "1,3320",
-      "satis": "1,3380",
-      "fark": "0,53",
+      "alis": "1,3330",
+      "satis": "1,3390",
+      "fark": "0,60",
       "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "up",
@@ -338,11 +338,11 @@
     },
     {
       "urun": "USD/JPY",
-      "alis": "162,1440",
-      "satis": "164,3600",
-      "fark": "-0,20",
+      "alis": "162,1770",
+      "satis": "164,3920",
+      "fark": "-0,18",
       "alis_trend": "down",
-      "satis_trend": "neutral",
+      "satis_trend": "down",
       "genel_trend": "down",
       "type": "capraz"
     }
@@ -350,8 +350,8 @@
   "darphane": [
     {
       "urun": "Çeyrek",
-      "yeni_alis": "1,6313",
-      "yeni_satis": "1,6386",
+      "yeni_alis": "1,6314",
+      "yeni_satis": "1,6355",
       "eski_alis": "1,6253",
       "eski_satis": "1,6306",
       "y_alis_trend": "neutral",
@@ -362,9 +362,9 @@
     {
       "urun": "Yarım",
       "yeni_alis": "3,2617",
-      "yeni_satis": "3,2749",
-      "eski_alis": "3,2497",
-      "eski_satis": "3,2568",
+      "yeni_satis": "3,2738",
+      "eski_alis": "3,2477",
+      "eski_satis": "3,2539",
       "y_alis_trend": "neutral",
       "y_satis_trend": "neutral",
       "e_alis_trend": "neutral",
@@ -373,9 +373,9 @@
     {
       "urun": "Tek",
       "yeni_alis": "6,5017",
-      "yeni_satis": "6,5196",
-      "eski_alis": "6,4506",
-      "eski_satis": "6,4745",
+      "yeni_satis": "6,5175",
+      "eski_alis": "6,4507",
+      "eski_satis": "6,4746",
       "y_alis_trend": "neutral",
       "y_satis_trend": "neutral",
       "e_alis_trend": "neutral",
@@ -383,9 +383,9 @@
     },
     {
       "urun": "Ata",
-      "yeni_alis": "6,6636",
+      "yeni_alis": "6,6586",
       "yeni_satis": "6,6847",
-      "eski_alis": "6,6266",
+      "eski_alis": "6,6267",
       "eski_satis": "6,6597",
       "y_alis_trend": "neutral",
       "y_satis_trend": "neutral",
@@ -394,10 +394,10 @@
     },
     {
       "urun": "Gremese",
-      "yeni_alis": "16,1954",
+      "yeni_alis": "16,1956",
       "yeni_satis": "16,3127",
       "eski_alis": "16,1255",
-      "eski_satis": "16,1926",
+      "eski_satis": "16,1927",
       "y_alis_trend": "neutral",
       "y_satis_trend": "neutral",
       "e_alis_trend": "neutral",
@@ -415,6 +415,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "06:54:57",
-  "cekme_zamani": "2026-07-15T03:54:58Z"
+  "guncelleme": "09:10:38",
+  "cekme_zamani": "2026-07-15T06:10:38Z"
 }
