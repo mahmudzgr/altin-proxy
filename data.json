@@ -25,8 +25,8 @@
       "alis": "112.530,00",
       "satis": "113.010,00",
       "fark": "-13,45",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -415,6 +415,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "14:56:23",
-  "cekme_zamani": "2026-07-18T12:31:59Z"
+  "guncelleme": "16:10:31",
+  "cekme_zamani": "2026-07-18T14:00:00Z"
 }
