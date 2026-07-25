@@ -5,8 +5,8 @@
       "alis": "6.161,90",
       "satis": "6.175,91",
       "fark": "-8,00",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -15,17 +15,17 @@
       "alis": "129.660,00",
       "satis": "129.890,00",
       "fark": "-0,01",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
     {
       "urun": "EUR/KG",
-      "alis": "114.030,00",
-      "satis": "114.470,00",
-      "fark": "-0,17",
-      "alis_trend": "up",
+      "alis": "114.060,00",
+      "satis": "114.500,00",
+      "fark": "-0,14",
+      "alis_trend": "neutral",
       "satis_trend": "up",
       "genel_trend": "down",
       "type": "altin"
@@ -35,8 +35,8 @@
       "alis": "5.619,69",
       "satis": "5.669,24",
       "fark": "-2,98",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -55,8 +55,8 @@
       "alis": "65,86",
       "satis": "70,04",
       "fark": "-6,73",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -65,8 +65,8 @@
       "alis": "3.521,42",
       "satis": "3.825,64",
       "fark": "-25,47",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -256,10 +256,10 @@
     },
     {
       "urun": "EUR/TL",
-      "alis": "53,622",
-      "satis": "53,801",
-      "fark": "-0,35",
-      "alis_trend": "neutral",
+      "alis": "53,608",
+      "satis": "53,791",
+      "fark": "-0,37",
+      "alis_trend": "down",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
@@ -328,10 +328,10 @@
   "capraz": [
     {
       "urun": "EUR/USD",
-      "alis": "1,1353",
-      "satis": "1,1366",
-      "fark": "-0,25",
-      "alis_trend": "neutral",
+      "alis": "1,1350",
+      "satis": "1,1364",
+      "fark": "-0,27",
+      "alis_trend": "down",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "capraz"
@@ -465,6 +465,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "13:10:54",
-  "cekme_zamani": "2026-07-25T10:13:12Z"
+  "guncelleme": "13:54:00",
+  "cekme_zamani": "2026-07-25T11:36:06Z"
 }
