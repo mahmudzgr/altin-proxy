@@ -25,7 +25,7 @@
       "alis": "122.580,00",
       "satis": "123.860,00",
       "fark": "1,49",
-      "alis_trend": "up",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "up",
       "type": "altin"
@@ -256,9 +256,9 @@
     },
     {
       "urun": "EUR/TL",
-      "alis": "55,520",
-      "satis": "56,071",
-      "fark": "0,79",
+      "alis": "55,516",
+      "satis": "56,070",
+      "fark": "0,78",
       "alis_trend": "down",
       "satis_trend": "up",
       "genel_trend": "up",
@@ -266,38 +266,38 @@
     },
     {
       "urun": "GBP/TL",
-      "alis": "64,626",
-      "satis": "65,397",
-      "fark": "9,20",
-      "alis_trend": "down",
-      "satis_trend": "up",
-      "genel_trend": "up",
-      "type": "doviz"
-    },
-    {
-      "urun": "CHF/TL",
-      "alis": "59,219",
-      "satis": "60,379",
-      "fark": "5,81",
+      "alis": "64,668",
+      "satis": "65,379",
+      "fark": "9,27",
       "alis_trend": "up",
       "satis_trend": "neutral",
       "genel_trend": "up",
       "type": "doviz"
     },
     {
-      "urun": "AUD/TL",
-      "alis": "33,289",
-      "satis": "34,102",
-      "fark": "8,62",
-      "alis_trend": "down",
+      "urun": "CHF/TL",
+      "alis": "59,190",
+      "satis": "60,370",
+      "fark": "5,76",
+      "alis_trend": "up",
       "satis_trend": "up",
       "genel_trend": "up",
       "type": "doviz"
     },
     {
+      "urun": "AUD/TL",
+      "alis": "33,304",
+      "satis": "34,099",
+      "fark": "8,67",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
+      "genel_trend": "up",
+      "type": "doviz"
+    },
+    {
       "urun": "CAD/TL",
-      "alis": "34,296",
-      "satis": "34,805",
+      "alis": "34,297",
+      "satis": "34,807",
       "fark": "0,22",
       "alis_trend": "down",
       "satis_trend": "up",
@@ -318,7 +318,7 @@
       "urun": "JPY/TL",
       "alis": "0,303",
       "satis": "0,299",
-      "fark": "-0,13",
+      "fark": "-0,10",
       "alis_trend": "down",
       "satis_trend": "up",
       "genel_trend": "down",
@@ -328,11 +328,11 @@
   "capraz": [
     {
       "urun": "EUR/USD",
-      "alis": "1,1624",
+      "alis": "1,1623",
       "satis": "1,1647",
-      "fark": "1,05",
-      "alis_trend": "neutral",
-      "satis_trend": "down",
+      "fark": "1,04",
+      "alis_trend": "down",
+      "satis_trend": "neutral",
       "genel_trend": "up",
       "type": "capraz"
     },
@@ -341,7 +341,7 @@
       "alis": "1,3530",
       "satis": "1,3590",
       "fark": "0,45",
-      "alis_trend": "up",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "up",
       "type": "capraz"
@@ -368,9 +368,9 @@
     },
     {
       "urun": "USD/CAD",
-      "alis": "1,3830",
+      "alis": "1,3820",
       "satis": "1,3930",
-      "fark": "-1,71",
+      "fark": "-1,78",
       "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
@@ -378,9 +378,9 @@
     },
     {
       "urun": "USD/JPY",
-      "alis": "158,1000",
-      "satis": "160,3800",
-      "fark": "-2,69",
+      "alis": "158,0960",
+      "satis": "160,3480",
+      "fark": "-2,70",
       "alis_trend": "neutral",
       "satis_trend": "down",
       "genel_trend": "down",
@@ -465,6 +465,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "00:11:43",
-  "cekme_zamani": "2026-08-19T21:11:44Z"
+  "guncelleme": "00:40:49",
+  "cekme_zamani": "2026-08-19T21:40:51Z"
 }
