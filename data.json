@@ -5,8 +5,8 @@
       "alis": "6.649,24",
       "satis": "6.759,27",
       "fark": "-3,13",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -15,8 +15,8 @@
       "alis": "6.083,38",
       "satis": "6.223,38",
       "fark": "-5,30",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -25,8 +25,8 @@
       "alis": "6.674,23",
       "satis": "6.759,24",
       "fark": "-2,84",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -35,8 +35,8 @@
       "alis": "3.814,16",
       "satis": "4.206,75",
       "fark": "-26,26",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -45,8 +45,8 @@
       "alis": "6.682,64",
       "satis": "6.759,24",
       "fark": "-2,45",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -55,8 +55,8 @@
       "alis": "136.530,00",
       "satis": "137.110,00",
       "fark": "-2,31",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -66,7 +66,7 @@
       "satis": "120.570,00",
       "fark": "-1,68",
       "alis_trend": "neutral",
-      "satis_trend": "down",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -75,8 +75,8 @@
       "alis": "1.924,80",
       "satis": "2.091,10",
       "fark": "-10,81",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -85,8 +85,8 @@
       "alis": "93,36",
       "satis": "102,59",
       "fark": "-10,95",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -105,8 +105,8 @@
       "alis": "93.356",
       "satis": "103.293",
       "fark": "-11,06",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -125,7 +125,7 @@
       "alis": "52.040,00",
       "satis": "57.550,00",
       "fark": "-10,35",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
@@ -137,8 +137,8 @@
       "alis": "10.894,00",
       "satis": "11.038,00",
       "fark": "-2,73",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -147,7 +147,7 @@
       "alis": "10.667,00",
       "satis": "10.842,00",
       "fark": "-2,96",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
@@ -157,8 +157,8 @@
       "alis": "21.784,00",
       "satis": "22.079,00",
       "fark": "-2,70",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -167,8 +167,8 @@
       "alis": "21.353,00",
       "satis": "21.659,00",
       "fark": "-2,78",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -177,8 +177,8 @@
       "alis": "43.429,00",
       "satis": "44.029,00",
       "fark": "-2,69",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -187,8 +187,8 @@
       "alis": "42.734,00",
       "satis": "43.319,00",
       "fark": "-2,86",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -197,8 +197,8 @@
       "alis": "44.131,00",
       "satis": "45.077,00",
       "fark": "-2,79",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -207,8 +207,8 @@
       "alis": "43.997,00",
       "satis": "44.638,00",
       "fark": "-2,86",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -217,8 +217,8 @@
       "alis": "220.466,00",
       "satis": "225.971,00",
       "fark": "-3,64",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -227,8 +227,8 @@
       "alis": "219.464,00",
       "satis": "224.085,00",
       "fark": "-3,35",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -237,8 +237,8 @@
       "alis": "44.118,00",
       "satis": "46.077,00",
       "fark": "-2,65",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -247,8 +247,8 @@
       "alis": "219.460,00",
       "satis": "228.271,00",
       "fark": "-3,63",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -257,8 +257,8 @@
       "alis": "107.764,00",
       "satis": "109.693,00",
       "fark": "-3,03",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     },
@@ -267,8 +267,8 @@
       "alis": "106.628,00",
       "satis": "108.584,00",
       "fark": "-3,10",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "sarrafiye"
     }
@@ -289,8 +289,8 @@
       "alis": "55,366",
       "satis": "55,890",
       "fark": "-1,07",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
     },
@@ -361,8 +361,8 @@
       "alis": "1,1377",
       "satis": "1,1383",
       "fark": "-0,91",
-      "alis_trend": "up",
-      "satis_trend": "up",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "capraz"
     },
@@ -391,7 +391,7 @@
       "alis": "0,6880",
       "satis": "0,6990",
       "fark": "-2,96",
-      "alis_trend": "up",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "capraz"
@@ -495,6 +495,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "00:02:47",
-  "cekme_zamani": "2026-09-25T22:41:51Z"
+  "guncelleme": "02:49:25",
+  "cekme_zamani": "2026-09-26T00:54:09Z"
 }
