@@ -15,8 +15,8 @@
       "alis": "5.988,07",
       "satis": "6.070,06",
       "fark": "-2,81",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -25,8 +25,8 @@
       "alis": "3.755,51",
       "satis": "4.100,73",
       "fark": "-24,69",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -35,8 +35,8 @@
       "alis": "6.577,91",
       "satis": "6.596,13",
       "fark": "0,10",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "up",
       "type": "altin"
     },
@@ -45,8 +45,8 @@
       "alis": "130.460,00",
       "satis": "130.740,00",
       "fark": "0,08",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "up",
       "type": "altin"
     },
@@ -55,8 +55,8 @@
       "alis": "117.240,00",
       "satis": "117.690,00",
       "fark": "0,59",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "up",
       "type": "altin"
     },
@@ -85,8 +85,8 @@
       "alis": "75,18",
       "satis": "82,26",
       "fark": "-7,79",
-      "alis_trend": "down",
-      "satis_trend": "down",
+      "alis_trend": "neutral",
+      "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
     },
@@ -485,6 +485,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "10:18:41",
-  "cekme_zamani": "2026-11-08T09:09:22Z"
+  "guncelleme": "17:10:30",
+  "cekme_zamani": "2026-11-08T15:56:50Z"
 }
