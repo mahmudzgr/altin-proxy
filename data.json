@@ -15,7 +15,7 @@
       "alis": "5.496,06",
       "satis": "5.580,56",
       "fark": "-3,94",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
@@ -25,7 +25,7 @@
       "alis": "3.444,12",
       "satis": "3.748,42",
       "fark": "-26,36",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
@@ -35,7 +35,7 @@
       "alis": "6.023,85",
       "satis": "6.054,11",
       "fark": "-1,08",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
@@ -75,7 +75,7 @@
       "alis": "64,04",
       "satis": "73,00",
       "fark": "-16,25",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
@@ -95,7 +95,7 @@
       "alis": "64.036",
       "satis": "73.707",
       "fark": "-15,95",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "altin"
@@ -269,7 +269,7 @@
       "alis": "50,755",
       "satis": "50,870",
       "fark": "1,06",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "up",
       "type": "doviz"
@@ -279,7 +279,7 @@
       "alis": "55,424",
       "satis": "55,703",
       "fark": "-1,49",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
@@ -289,7 +289,7 @@
       "alis": "66,042",
       "satis": "66,421",
       "fark": "-1,99",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
@@ -299,7 +299,7 @@
       "alis": "59,832",
       "satis": "60,444",
       "fark": "-2,22",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
@@ -309,7 +309,7 @@
       "alis": "32,814",
       "satis": "33,461",
       "fark": "-5,15",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
@@ -319,7 +319,7 @@
       "alis": "35,050",
       "satis": "35,402",
       "fark": "-1,34",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
@@ -329,7 +329,7 @@
       "alis": "13,223",
       "satis": "13,672",
       "fark": "-2,10",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
@@ -339,7 +339,7 @@
       "alis": "0,314",
       "satis": "0,320",
       "fark": "-1,57",
-      "alis_trend": "down",
+      "alis_trend": "neutral",
       "satis_trend": "neutral",
       "genel_trend": "down",
       "type": "doviz"
@@ -485,6 +485,6 @@
       "e_satis_trend": "neutral"
     }
   ],
-  "guncelleme": "15:16:10",
-  "cekme_zamani": "2026-11-21T17:27:20Z"
+  "guncelleme": "22:43:49",
+  "cekme_zamani": "2026-11-21T22:16:43Z"
 }
